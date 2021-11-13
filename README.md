@@ -1,6 +1,6 @@
 # Financial-Statement-analysis-assignment-in-RStudio
-Financial Statement analysis
-FINANCIAL STATEMENT ANALYSIS
+
+
 Homework Exercise
 Scenario: You are a Data Scientist working for a consulting firm. One of your colleagues from the Auditing department has asked you to help them assess the financial statement of organisation X. You have been supplied with two vectors of data: monthly revenue and monthly expenses for the financial year in question. Your task is to calculate the following financial metrics: 
 - profit for each month - profit after tax for each month (the tax rate is 30%) 
